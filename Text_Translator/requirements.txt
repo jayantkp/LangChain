@@ -1,0 +1,20 @@
+ipykernel
+langchain
+langchain-community
+langchain-core
+langsmith
+openai
+pydantic
+pydantic_core
+gradio
+gradio_client
+langchain_openai
+arxiv
+pymupdf
+beautifulsoup4
+lxml
+wikipedia
+pypdf
+unstructured
+tiktoken
+# llama_cpp_pytho
